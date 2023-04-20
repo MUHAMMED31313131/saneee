@@ -1,0 +1,9 @@
+Rank Botu Altyapısı Paylaşıyorum, Glitch Üzerinden Yapılmış V12 Bottur. Botu Çalıştırmak İçin Yapmanız Gereken;
+
+ayarlar.jsde prefix kısmını kendizine göre ayarlayın
+
+envde botun tokenini giriceksiniz (yoksa aktif olmaz)
+
+son olarak botu sese sokmak istiyorsanız server.jsde en alt kısımda  ID Girin Bot Seste Aktif olur. Anlamadığınız Sorabilirsiniz.
+
+https://glitch.com/edit/#!/ayven-rank?path=server.js%3A71%3A21
